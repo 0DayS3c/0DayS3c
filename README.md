@@ -18,9 +18,9 @@ I am a cyber security enthusiast and ethical hacker from Sri Lanka. I am profici
 </div>
 
 ## 📊 GitHub Stats
-![Piyusha's GitHub stats](https://github-readme-stats.vercel.app/api?username=0DayS3c&show_icons=true&theme=radical)
+<!-- You might also consider using this alternative for more detailed language stats -->
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0DayS3c&langs_count=10&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0DayS3c&layout=compact&theme=radical)
 
 ## 🌱 Currently Learning
 - Cyber Security
