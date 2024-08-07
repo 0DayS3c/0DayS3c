@@ -18,9 +18,9 @@ I am a cyber security enthusiast and ethical hacker from Sri Lanka. I am profici
 </div>
 
 ## 📊 GitHub Stats
-![Piyusha's GitHub stats](https://github-readme-stats.vercel.app/api?username=PiyushaAkash&show_icons=true&theme=radical)
+![Piyusha's GitHub stats](https://github-readme-stats.vercel.app/api?username=0DayS3c&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PiyushaAkash&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0DayS3c&layout=compact&theme=radical)
 
 ## 🌱 Currently Learning
 - Cyber Security
@@ -32,9 +32,9 @@ I am a cyber security enthusiast and ethical hacker from Sri Lanka. I am profici
 <div style="display: flex; flex-wrap: wrap;">
   <a href="https://discord.gg/JuWCAKHAbN"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="https://www.facebook.com/info.akashwickramage?mibextid=kFxxJD"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
-  <a href="https://instagram.com/akash_wickramage"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://lk.linkedin.com/in/akash-wickramage"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://x.com/AkashWickramage"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+  <a href="https://instagram.com/0days3c"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.linkedin.com/in/piyushaakash/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://x.com/0DayS3c"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
   <a href="https://reddit.com/user/AkashWickramage"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" /></a>
   <a href="https://medium.com/@AkashWickramage"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
   <a href="https://buymeacoffee.com/PiyushaAkash"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee" /></a>
